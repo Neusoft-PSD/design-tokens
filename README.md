@@ -1,4 +1,4 @@
-# Salesforce Design Tokens
+# Neusoft PSD UX Design Tokens (based on Salesforce Design Tokens)
 
 Design Tokens for colors, spacing, font, etc.
 

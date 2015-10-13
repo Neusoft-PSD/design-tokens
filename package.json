@@ -1,6 +1,6 @@
 {
-  "name": "@salesforce-ux/design-tokens",
-  "version": "1.2.0",
+  "name": "neusoft-psd-ux_design-tokens",
+  "version": "1.2.0-poc1",
   "engines": {
     "node": ">= 0.12.0"
   },
