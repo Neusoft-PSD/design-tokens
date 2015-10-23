@@ -32,19 +32,19 @@
       "comment": "Text color for brandable primary button - disabled state"
     },
     "COLOR_TEXT_BUTTON_DEFAULT": {
-      "value": "{!SCIENCE_BLUE}",
+      "value": "{!AZURE}",
       "category": "text-color",
       "cssProperties": "color",
       "comment": "Text color for default secondary button"
     },
     "COLOR_TEXT_BUTTON_DEFAULT_HOVER": {
-      "value": "{!SCIENCE_BLUE}",
+      "value": "{!AZURE}",
       "category": "text-color",
       "cssProperties": "color",
       "comment": "Text color for default secondary button - hover state"
     },
     "COLOR_TEXT_BUTTON_DEFAULT_ACTIVE": {
-      "value": "{!SCIENCE_BLUE}",
+      "value": "{!AZURE}",
       "category": "text-color",
       "cssProperties": "color",
       "comment": "Text color for default secondary button - active state"
@@ -86,7 +86,7 @@
       "comment": "Icon color for a button that has a parent element that has a hover state. This is the default text/icon color for that button before its parent has been hovered over."
     },
     "COLOR_TEXT_ICON_DEFAULT_HOVER": {
-      "value": "{!SCIENCE_BLUE}",
+      "value": "{!AZURE}",
       "category": "text-color",
       "cssProperties": ["color", "fill"],
       "comment": "Default icon color - hover state."
@@ -132,7 +132,7 @@
 
 
     "COLOR_BACKGROUND_BUTTON_BRAND": {
-      "value": "{!SCIENCE_BLUE}",
+      "value": "{!AZURE}",
       "category": "background-color",
       "cssProperties": ["background", "background-color"],
       "comment": "Brandable primary button"
@@ -249,7 +249,7 @@
 
 
     "COLOR_BORDER_BUTTON_BRAND": {
-      "value": "{!SCIENCE_BLUE}",
+      "value": "{!AZURE}",
       "category": "border-color",
       "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Border color for brandable primary button"
