@@ -8,7 +8,7 @@
   ],
   "props": {
     "FONT_FAMILY": {
-      "value": "Tahoma,  Helvetica, 'Microsoft YaHei New', 'Microsoft Yahei', '微软雅黑', '宋体', SimSun, STXihei, '华文细黑', sans-serif",
+      "value": "Tahoma, Arial, Helvetica, 'Microsoft YaHei New', 'Microsoft Yahei', '微软雅黑', '宋体', SimSun, STXihei, '华文细黑', sans-serif",
       "type": "font",
       "cssProperties": ["font", "font-family"]
     },
