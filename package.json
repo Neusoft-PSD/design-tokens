@@ -1,6 +1,6 @@
 {
   "name": "neusoft-psd-ux_design-tokens",
-  "version": "1.2.0-poc2",
+  "version": "1.2.0-poc3",
   "engines": {
     "node": ">= 0.12.0"
   },
